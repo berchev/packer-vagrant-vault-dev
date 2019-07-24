@@ -28,7 +28,7 @@ apt-get install -y build-essential ${APTARGS}
 apt-get install -y thin-provisioning-tools ${APTARGS}
 
 # some tools
-apt-get install -y ${APTARGS} python-pip python3-pip git jq curl wget vim language-pack-en sysstat htop
+apt-get install -y ${APTARGS} python-pip python3-pip git jq curl unzip wget vim language-pack-en sysstat htop
 apt-get install -y ${APTARGS} ruby ruby-dev
 
 # Install and setup python3.6 as default + idle

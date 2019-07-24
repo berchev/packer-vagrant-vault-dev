@@ -9,3 +9,8 @@ vendor/
 xenial64-vbox.box
 xenial64-vmware.box
 .kitchen/
+output-vault-dev64-vbox/
+output-vault-dev64-vmware/
+vault-dev64-vbox.box
+vault-dev64-vmware.box
+
